@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_FP5rsBqqEeeQsfIw7QERlg" name="RootElement">
   <packagedElement xmi:type="uml:Class" xmi:id="_JAXrkCBbEeeOEoDYR3enWw" name="Class1">
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_F5ACgCmREeernulEOyDZnw" name="class2" type="_FBDG0CmREeernulEOyDZnw" association="_F48YICmREeernulEOyDZnw">
-      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_F5DF0CmREeernulEOyDZnw"/>
-      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_F5Ds4CmREeernulEOyDZnw" value="1"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_8wadADYrEeeGy9lsGD61CA" name="class2" type="_7tvfEDYrEeeGy9lsGD61CA" association="_8wWLkDYrEeeGy9lsGD61CA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8wc5QDYrEeeGy9lsGD61CA"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8wdgUDYrEeeGy9lsGD61CA" value="1"/>
     </ownedAttribute>
   </packagedElement>
-  <packagedElement xmi:type="uml:Class" xmi:id="_FBDG0CmREeernulEOyDZnw" name="Class2"/>
-  <packagedElement xmi:type="uml:Association" xmi:id="_F48YICmREeernulEOyDZnw" memberEnd="_F5ACgCmREeernulEOyDZnw _F5E7ACmREeernulEOyDZnw">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F4-NUCmREeernulEOyDZnw" source="org.eclipse.papyrus">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_F4-NUSmREeernulEOyDZnw" key="nature" value="UML_Nature"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_7tvfEDYrEeeGy9lsGD61CA" name="Class2"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_8PwnADYrEeeGy9lsGD61CA" name="Class3"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8wWLkDYrEeeGy9lsGD61CA" memberEnd="_8wadADYrEeeGy9lsGD61CA _8wdgUTYrEeeGy9lsGD61CA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8wZO4DYrEeeGy9lsGD61CA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8wZO4TYrEeeGy9lsGD61CA" key="nature" value="UML_Nature"/>
     </eAnnotations>
-    <ownedEnd xmi:type="uml:Property" xmi:id="_F5E7ACmREeernulEOyDZnw" name="class1" type="_JAXrkCBbEeeOEoDYR3enWw" association="_F48YICmREeernulEOyDZnw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_8wdgUTYrEeeGy9lsGD61CA" name="class1" type="_JAXrkCBbEeeOEoDYR3enWw" association="_8wWLkDYrEeeGy9lsGD61CA"/>
   </packagedElement>
 </uml:Model>
