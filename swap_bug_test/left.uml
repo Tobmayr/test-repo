@@ -6,7 +6,7 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_F5Ds4CmREeernulEOyDZnw" value="1"/>
     </ownedAttribute>
   </packagedElement>
-  <packagedElement xmi:type="uml:Class" xmi:id="_FBDG0CmREeernulEOyDZnw" name="Class2"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_FBDG0CmREeernulEOyDZnw" name="PleaseBeAConflict"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_F48YICmREeernulEOyDZnw" memberEnd="_F5ACgCmREeernulEOyDZnw _F5E7ACmREeernulEOyDZnw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F4-NUCmREeernulEOyDZnw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_F4-NUSmREeernulEOyDZnw" key="nature" value="UML_Nature"/>
