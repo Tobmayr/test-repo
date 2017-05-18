@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_UfHK4DumEee0V7f6gJ8lsw" name="RootElement">
+  <packagedElement xmi:type="uml:Class" xmi:id="_U3gcwDumEee0V7f6gJ8lsw" name="Class1"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Vl3-oDumEee0V7f6gJ8lsw" name="Class2">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_WI9dkDumEee0V7f6gJ8lsw" name="class1" type="_U3gcwDumEee0V7f6gJ8lsw" association="_WI4lEDumEee0V7f6gJ8lsw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_WI-EoDumEee0V7f6gJ8lsw"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_WI-EoTumEee0V7f6gJ8lsw" value="1"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_WI4lEDumEee0V7f6gJ8lsw" memberEnd="_WI9dkDumEee0V7f6gJ8lsw _WI-EojumEee0V7f6gJ8lsw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_WI7oYDumEee0V7f6gJ8lsw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WI7oYTumEee0V7f6gJ8lsw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_WI-EojumEee0V7f6gJ8lsw" name="class2" type="_Vl3-oDumEee0V7f6gJ8lsw" association="_WI4lEDumEee0V7f6gJ8lsw"/>
+  </packagedElement>
+</uml:Model>
